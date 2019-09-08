@@ -1,4 +1,4 @@
-# High Performance Blockchain Node Operators Code of Conduct
+# HPB Node Operators Code of Conduct
 
 ## Welcoming Environment
 

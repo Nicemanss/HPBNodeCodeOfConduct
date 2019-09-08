@@ -1,15 +1,15 @@
-# HPB Node Operators Code of Conduct
+# High Performance Blockchain Node Operators Code of Conduct
 
-## Our Pledge
+## Welcoming Environment
 
 In the interest of fostering an open and welcoming environment, 
-node operators pledge to making participation in our project and
+High Performance Blockchain Node operators pledge to making participation in our project and
 our community a harassment-free experience for everyone, regardless of age, body
 size, disability, ethnicity, gender identity and expression, level of experience,
 nationality, personal appearance, race, religion, or sexual identity and
 orientation.
 
-## Our Standards
+## Standards
 
 Examples of behavior that contributes to creating a positive environment
 include:
@@ -32,16 +32,16 @@ advances
   professional setting
 * Participating in the purchase of votes through non-official backchannels
 
-## Node Operators Responsibilities
+## Responsibilities
 
-Node Operators are responsible for ensuring clarifying the standards of acceptable
+High Performance Blockchain Node operators are responsible for ensuring clarifying the standards of acceptable
 behavior and are expected to use their voice against any instances of unacceptable behavior.
 
 ## Scope
 
 This Code of Conduct applies both within project spaces and in public spaces
-when an individual is representing the project or its community as a Node. Examples of
-representing while being identifiable as a High Performance Blockchain Node could be
+when an individual is representing the project or its community as a High Performance Blockchain Node.
+Examples of representing while being identifiable as a High Performance Blockchain Node could be
 in an email, posting on Telegram or WeChat, posting on social media, or acting as an appointed
 representative at an online or offline event. Representation of a project may be
 further defined and clarified by project maintainers.
@@ -49,7 +49,7 @@ further defined and clarified by project maintainers.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the project team at support@hpb.io. All
+reported by contacting the project team at hpb@hpb.io. All
 complaints will be reviewed and investigated and will result in a response that
 is deemed necessary and appropriate to the circumstances. The project team is
 obligated to maintain confidentiality with regard to the reporter of an incident.
